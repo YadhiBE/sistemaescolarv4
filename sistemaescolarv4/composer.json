@@ -1,0 +1,17 @@
+{
+    "name": "yadhi/sistemaescolarv4",
+    "description": "sistema escolar version 4",
+    "type": "project",
+    "authors": [
+        {
+            "name": "YadhiBE",
+            "email": "sempaiiiiiyadhi@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^6.19",
+        "illuminate/events": "^6.19",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
